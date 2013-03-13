@@ -20,7 +20,7 @@ curl -s -O http://cloud.github.com/downloads/genttool/gent/groovy-all-1.8.8-ivy.
 ##############################################################
 # 2. Installing Gent Groovy Script
 ##############################################################
-curl -s -O https://raw.github.com/genttool/gent/master/gent.groovy
+curl -s -O https://raw.github.com/kiy0taka/gent/master/gent.groovy
 
 ##############################################################
 # 3. Installing Gent Shell Script into ~/bin
